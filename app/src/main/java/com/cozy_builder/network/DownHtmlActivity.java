@@ -51,7 +51,7 @@ public class DownHtmlActivity extends AppCompatActivity {
                         handler.sendEmptyMessage(0);
                     }
                 });
-                th.start();
+                th.start();//
             }
         });
     }
